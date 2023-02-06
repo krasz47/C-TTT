@@ -1,2 +1,2 @@
-# C-TTT
+# CSharp-TTT
 Tic Tac Toe game made in C# for a starter project
